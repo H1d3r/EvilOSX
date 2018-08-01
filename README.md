@@ -18,6 +18,9 @@
   <a href="https://github.com/Marten4n6/EvilOSX/blob/master/CONTRIBUTING.md">
       <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square" alt="Contributing">
   </a>
+  <a href="https://travis-ci.org/Marten4n6/EvilOSX">
+      <img src="https://img.shields.io/travis/Marten4n6/EvilOSX/master.svg?style=flat-square" alt="Build Status">
+  </a>
 </p>
 
 ---
